@@ -3,3 +3,5 @@
 
 
 This is a website, "not" a repository.
+
+NOTE TO SELF: Insert html in the config.yml on all html pages.
