@@ -4,4 +4,4 @@
 
 This is a website, "not" a repository.
 
-NOTE TO SELF: Insert html in a private gist on all html pages.
+NOTE TO SELF: Insert html in to the <head> from a private gist on all html pages.
